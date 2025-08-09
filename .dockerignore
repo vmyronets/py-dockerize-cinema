@@ -2,12 +2,12 @@
 .flake8/
 .github/
 .idea/
-__pycache__/
 docker-compose.yml
 .gitignore
-.dockerinore
+.dockerignore
 media
 .DS_Store
 .pytest_cache/
 **__pycache__/
 **db.sqlite3
+README.md
